@@ -116,7 +116,6 @@ proyek_customer_segmentation/
 ├── transformer_frequency.joblib
 ├── transformer_monetary.joblib
 ├── transformer_recency.joblib
-├── .ipynb_checkpoints/
 ```
 
 ---
